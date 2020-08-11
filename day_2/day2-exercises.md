@@ -17,7 +17,7 @@ target = "_blank"
 
 How do you link to a specific part of the same page?
 
-  We label points of the code with the "id" attribute and then use the <a href> format but instead of an URL we use "#idname".  The "#" must be put in front of the id you are making a link for.
+  We label points of the code with the "id" attribute and then use the a href format but instead of an URL we use "#idname".  The "#" must be put in front of the id you are making a link for.
 
 
 What is the purpose of CSS?
